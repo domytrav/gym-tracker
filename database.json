@@ -1,0 +1,38 @@
+{
+    "domenico": {
+        "giorni": {
+            "lunedi": {
+                "muscoli": {
+                    "petto": {
+                        "esercizi": [
+                            "spinte",
+                            "croci"
+                        ]
+                    },
+                    "bicipiti": {
+                        "esercizi": [
+                            "curl",
+                            "scott"
+                        ]
+                    }
+                }
+            },
+            "giovedi": {
+                "muscoli": {
+                    "dorso": {
+                        "esercizi": [
+                            "lat",
+                            "rowing"
+                        ]
+                    },
+                    "tricipiti": {
+                        "esercizi": [
+                            "corda",
+                            "triangolo"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
