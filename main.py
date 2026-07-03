@@ -68,7 +68,7 @@ username = input("Benvenuto in GymTracker, inserisci il tuo username: ").lower()
 
 if username not in dati:
     dati[username]= {}
-    creaScheda(username)
+    creaScheda(dati, username)
     menu(dati, username)
     
 else:
